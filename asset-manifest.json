@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sistema-chamados/static/css/main.b59d6bb7.css",
-    "main.js": "/sistema-chamados/static/js/main.396c7e64.js",
-    "static/media/cover.png": "/sistema-chamados/static/media/cover.6a293bc81a9b941e96e1.png",
-    "static/media/logo.png": "/sistema-chamados/static/media/logo.1c649f137f0d785bca37.png",
-    "index.html": "/sistema-chamados/index.html",
-    "main.b59d6bb7.css.map": "/sistema-chamados/static/css/main.b59d6bb7.css.map",
-    "main.396c7e64.js.map": "/sistema-chamados/static/js/main.396c7e64.js.map"
+    "main.css": "/static/css/main.cbb5359e.css",
+    "main.js": "/static/js/main.1c938e59.js",
+    "static/media/cover.png": "/static/media/cover.6a293bc81a9b941e96e1.png",
+    "static/media/logo.png": "/static/media/logo.1c649f137f0d785bca37.png",
+    "index.html": "/index.html",
+    "main.cbb5359e.css.map": "/static/css/main.cbb5359e.css.map",
+    "main.1c938e59.js.map": "/static/js/main.1c938e59.js.map"
   },
   "entrypoints": [
-    "static/css/main.b59d6bb7.css",
-    "static/js/main.396c7e64.js"
+    "static/css/main.cbb5359e.css",
+    "static/js/main.1c938e59.js"
   ]
 }
