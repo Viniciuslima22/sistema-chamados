@@ -1,6 +1,9 @@
 <h1>Sistema de chamados <h1/>
 <hr>
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105254347/197362987-08a5467c-0d26-4c32-8184-620222d2034a.gif)
+<hr>
+
 <h3>descrição<h3/>
 Sistema de chamados baseado em estudos, utilizando React para front-end e Firebase para o back-end da aplicação
  
