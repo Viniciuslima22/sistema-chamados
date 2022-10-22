@@ -1,18 +1,42 @@
-<Sistema de chamados utilizando ReactJS e firebase para back
+<h1>Sistema de chamados <h1/>
+<hr>
 
-"dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "date-fns": "^2.29.3",
-    "firebase": "^8.6.1",
-    "gh-pages": "^4.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^4.6.0",
-    "react-router-dom": "^5.3.4",
-    "react-scripts": "5.0.1",
-    "react-toastify": "^9.0.8",
-    "web-vitals": "^2.1.4" }
+<h3>descrição<h3/>
+Sistema de chamados baseado em estudos, utilizando React para front-end e Firebase para o back-end da aplicação
+ 
 
-🌐 https://Viniciuslima22.github.io/sistema-chamados
+<h3>Ferramentas utilizadas<h3/>
+<hr>
+
+* HTML
+* CSS
+* JavaScript
+* ReactJS
+* FireBase
+<hr>
+<h3>biblioteca<h3/>
+<hr>
+
+* react-icons 4.6.0
+* react-toastify 9.0.8
+* react-router-dom 5.3.4
+* date-fns 2.29.3
+* firebase 8.6.1
+
+<h3>Start<h3/>
+<hr>
+
+* npx create-react-app my-app
+* npm start
+
+<hr>
+
+
+
+
+
+
+
+* 🌐 https://Viniciuslima22.github.io/sistema-chamados
+
+
